@@ -1,0 +1,24 @@
+payload:
+  # 域名
+#  - DOMAIN,cf-edge.iloli.cloudns.org
+
+  # 域名后缀
+#  - DOMAIN-SUFFIX,githubusercontent.com
+#  - DOMAIN-SUFFIX,bing.com
+#  - DOMAIN-SUFFIX,recaptcha.net
+#  - DOMAIN-SUFFIX,gstatic.com
+#  - DOMAIN-SUFFIX,bulianglin.com
+#  - DOMAIN-SUFFIX,mikanani.me
+#  - DOMAIN-SUFFIX,tmdb.org
+#  - DOMAIN-SUFFIX,themoviedb.org
+#  - DOMAIN-SUFFIX,fanart.tv
+#  - DOMAIN-SUFFIX,telegram.org
+#  - DOMAIN-SUFFIX,opensubtitles.org
+#  - DOMAIN-SUFFIX,docker.com
+#  - DOMAIN-SUFFIX,docker.io
+#  - DOMAIN-SUFFIX,cookielaw.org
+#  - DOMAIN-SUFFIX,comicat.org
+  
+  
+  #域名关键字
+#  - DOMAIN-KEYWORD,speedtest
