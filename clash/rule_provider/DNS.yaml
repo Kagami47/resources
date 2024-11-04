@@ -1,0 +1,12 @@
+payload:
+  # IP
+  - IP-CIDR,1.1.1.1/32,no-resolve
+  - IP-CIDR,1.0.0.1/32,no-resolve
+  - IP-CIDR,8.8.8.8/32,no-resolve
+  - IP-CIDR,8.8.4.4/32,no-resolve
+  
+  # 域名
+  - DOMAIN,dns.google.com
+  - DOMAIN,dns.google
+  - DOMAIN,0ms.dev
+  - DOMAIN,unfiltered.adguard-dns.com
