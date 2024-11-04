@@ -1,0 +1,49 @@
+payload:
+  #自建服务
+  - DOMAIN-SUFFIX,iloli.cloudns.org
+  - DOMAIN-SUFFIX,iloli.x10.mx
+  - DOMAIN-SUFFIX,ilolib.eu.org
+  - DOMAIN-SUFFIX,pandapan.eu.org
+  - DOMAIN-SUFFIX,soyo.moe
+  - DOMAIN-SUFFIX,xiaoheimao.top
+  
+  #允许的广告
+  - DOMAIN-SUFFIX,poweredby.jads.co
+  - DOMAIN-SUFFIX,a.magsrv.com
+  - DOMAIN-SUFFIX,s.magsrv.com
+  - DOMAIN-SUFFIX,128100.xyz
+  
+  # 域名
+  - DOMAIN,tr.ready4.icu
+  - DOMAIN,kebhana.mx
+  - DOMAIN,csgo.com
+  - DOMAIN,wa.kami.nyc.mn
+  - DOMAIN,sub.443888.xyz
+  
+  # 域名后缀
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,tr.ready4.icu
+  - DOMAIN-SUFFIX,mwm.moe
+  - DOMAIN-SUFFIX,tianli0.top
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,dns.sb
+  - DOMAIN-SUFFIX,nmxc.ltd
+  - DOMAIN-SUFFIX,cableav.tv
+  - DOMAIN-SUFFIX,afcdn.net
+  - DOMAIN-SUFFIX,cdn.fluidplayer.com
+  - DOMAIN-SUFFIX,rainyun.com
+  - DOMAIN-SUFFIX,wpzysq.com
+  - DOMAIN-SUFFIX,uptimerobot.com
+  - DOMAIN-SUFFIX,giscus.app
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,kimi.ai
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,freecdn.pw
+#  - DOMAIN-SUFFIX,themoviedb.org
+  
+  # 域名关键字
+  - DOMAIN-KEYWORD,tracker
+  
+  #IP
+#  - IP-CIDR,1.1.1.1/32,no-resolve
