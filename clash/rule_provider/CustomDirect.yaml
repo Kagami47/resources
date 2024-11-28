@@ -19,6 +19,9 @@ payload:
   - DOMAIN,csgo.com
   - DOMAIN,wa.kami.nyc.mn
   - DOMAIN,sub.443888.xyz
+  - DOMAIN,thanks-10e.pages.dev
+  - DOMAIN,thank.kami.nyc.mn
+  - DOMAIN,you-8ph.pages.dev
   
   # 域名后缀
   - DOMAIN-SUFFIX,gh-proxy.com
