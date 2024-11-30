@@ -8,5 +8,7 @@ payload:
   # 域名
   - DOMAIN,dns.google.com
   - DOMAIN,dns.google
+  - DOMAIN,cloudflare-dns.com
+  - DOMAIN,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN,0ms.dev
   - DOMAIN,unfiltered.adguard-dns.com
