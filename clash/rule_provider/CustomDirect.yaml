@@ -39,7 +39,7 @@ payload:
   - DOMAIN-SUFFIX,uptimerobot.com
   - DOMAIN-SUFFIX,giscus.app
   - DOMAIN-SUFFIX,oraclecloud.com
-#  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,freecdn.pw
