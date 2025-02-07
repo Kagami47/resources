@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,128100.xyz
   
   # 域名
+  - DOMAIN,challenges.cloudflare.com
   - DOMAIN,tr.ready4.icu
   - DOMAIN,kebhana.mx
   - DOMAIN,csgo.com
