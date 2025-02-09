@@ -23,7 +23,6 @@ payload:
   - DOMAIN,thanks-10e.pages.dev
   - DOMAIN,thank.kami.nyc.mn
   - DOMAIN,you-8ph.pages.dev
-  - DOMAIN,emby2.69yun69.com
   
   # 域名后缀
   - DOMAIN-SUFFIX,gh-proxy.com
