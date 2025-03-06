@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,128100.xyz
   
   # 域名
+  - DOMAIN,i0.wp.com
+  - DOMAIN,i1.wp.com
+  - DOMAIN,i2.wp.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,tr.ready4.icu
   - DOMAIN,kebhana.mx
