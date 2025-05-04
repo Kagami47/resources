@@ -5,6 +5,7 @@ payload:
   - DOMAIN,wallhaven.soyo.moe
 
   # 域名后缀
+  - DOMAIN-SUFFIX,tts.speech.microsoft.com
 #  - DOMAIN-SUFFIX,githubusercontent.com
 #  - DOMAIN-SUFFIX,bing.com
 #  - DOMAIN-SUFFIX,recaptcha.net
