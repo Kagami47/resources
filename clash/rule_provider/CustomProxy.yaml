@@ -1,11 +1,11 @@
 payload:
   # 域名
 #  - DOMAIN,cf-edge.iloli.cloudns.org
-  - DOMAIN,dev.microsofttranslator.com
+#  - DOMAIN,dev.microsofttranslator.com
   - DOMAIN,wallhaven.soyo.moe
 
   # 域名后缀
-  - DOMAIN-SUFFIX,tts.speech.microsoft.com
+#  - DOMAIN-SUFFIX,tts.speech.microsoft.com
 #  - DOMAIN-SUFFIX,githubusercontent.com
 #  - DOMAIN-SUFFIX,bing.com
 #  - DOMAIN-SUFFIX,recaptcha.net
