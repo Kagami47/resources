@@ -1,0 +1,29 @@
+payload:
+  - DOMAIN,ios-us-crashsight.iegcom.com
+  - DOMAIN,global-match.nikke-kr.com
+  - DOMAIN,aws-na.intlgame.com
+  - DOMAIN,sea-lobby.nikke-kr.com
+  - DOMAIN,pc.crashsight-us.iegcom.com
+  - DOMAIN,na-nikke-aws.playerinfinite.com
+  - DOMAIN,down.anticheatexpert.com
+  - DOMAIN,nikke-en.com
+  - DOMAIN,nikke-sea.com
+  - DOMAIN,na-community.playerinfinite.com
+  - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN-SUFFIX,centauriglobal.com
+  - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN-SUFFIX,nikke-kr.com
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,iegcom.com
+  - DOMAIN-SUFFIX,nikke-de.com
+  - DOMAIN-SUFFIX,nikke-en.com
+  - DOMAIN-SUFFIX,nikke-fr.com
+  - DOMAIN-SUFFIX,nikke-jp.com
+  - DOMAIN-SUFFIX,nikke-sea.com
+  - IP-CIDR,43.152.114.31/32,no-resolve
+
+#PC NA
+  - DOMAIN,catalog.gamepass.com
+  - DOMAIN,na1.centauriglobal.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,centauriglobal.com
