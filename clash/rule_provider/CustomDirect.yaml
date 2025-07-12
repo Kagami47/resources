@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,freecdn.pw
 #  - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,blablalink.com
+  - DOMAIN-SUFFIX,tts.speech.microsoft.com
   
   # 域名关键字
   - DOMAIN-KEYWORD,tracker
