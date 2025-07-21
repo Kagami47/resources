@@ -1,0 +1,12 @@
+payload:
+  # 域名
+#  - DOMAIN,wallhaven.soyo.moe
+
+  # 域名后缀
+  - DOMAIN-SUFFIX,gamer.com.tw
+  
+  #域名关键字
+#  - DOMAIN-KEYWORD,speedtest
+
+  #GEO
+  - GEOSITE,bahamut
