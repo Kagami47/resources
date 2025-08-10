@@ -1,3 +1,4 @@
 payload:
   - GEOIP,CN
   - GEOSITE,CN
+  - GEOSITE,steam@cn
