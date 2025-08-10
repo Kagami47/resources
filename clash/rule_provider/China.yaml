@@ -1,4 +1,3 @@
 payload:
   - GEOIP,CN
   - GEOSITE,CN
-  - GEOSITE,STEAM
