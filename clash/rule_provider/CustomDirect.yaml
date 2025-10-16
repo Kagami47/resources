@@ -16,16 +16,6 @@ payload:
   # 域名
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,tr.ready4.icu
-  - DOMAIN,kebhana.mx
-  - DOMAIN,csgo.com
-  - DOMAIN,wa.kami.nyc.mn
-  - DOMAIN,sub.443888.xyz
-  - DOMAIN,thanks-10e.pages.dev
-  - DOMAIN,thank.kami.nyc.mn
-  - DOMAIN,you-8ph.pages.dev
-  - DOMAIN,emby.69yun69.com
-  - DOMAIN,emby2.69yun69.com
-  - DOMAIN,emby3.69yun69.com
   
   # 域名后缀
   - DOMAIN-SUFFIX,wp.com
@@ -49,8 +39,6 @@ payload:
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,freecdn.pw
 #  - DOMAIN-SUFFIX,themoviedb.org
-  - DOMAIN-SUFFIX,blablalink.com
-  - DOMAIN-SUFFIX,tts.speech.microsoft.com
   
   # 域名关键字
   - DOMAIN-KEYWORD,tracker
