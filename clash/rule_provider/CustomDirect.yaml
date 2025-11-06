@@ -6,7 +6,10 @@ payload:
   - DOMAIN-SUFFIX,pandapan.eu.org
   - DOMAIN-SUFFIX,soyo.moe
   - DOMAIN-SUFFIX,xiaoheimao.top
-  
+
+  #微软TTs
+  - DOMAIN,dev.microsofttranslator.com
+  - DOMAIN-SUFFIX,tts.speech.microsoft.com
   #允许的广告
   - DOMAIN-SUFFIX,poweredby.jads.co
   - DOMAIN-SUFFIX,a.magsrv.com
