@@ -9,7 +9,7 @@ payload:
 
   #微软TTs
   - DOMAIN,dev.microsofttranslator.com
-  - DOMAIN-SUFFIX,tts.speech.microsoft.com
+  #- DOMAIN-SUFFIX,tts.speech.microsoft.com
   #允许的广告
   - DOMAIN-SUFFIX,poweredby.jads.co
   - DOMAIN-SUFFIX,a.magsrv.com
